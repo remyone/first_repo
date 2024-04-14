@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "java",
+            "request": "launch",
+            "mainClass": "java",
+            "projectName": "app_759cdc69"
+        }
+    ]
+}
